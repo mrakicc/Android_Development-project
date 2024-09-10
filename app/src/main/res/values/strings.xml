@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Rma_projekat</string>
+
+    <string name="app_exit_confirmation_dismiss">Dismiss</string>
+    <string name="app_exit_confirmation_yes">Exit</string>
+
+    <string name="quiz_exit_confirmation_title">Warning</string>
+<!--    <string name="editor_delete_confirmation_text">You are about to delete your password for %1$s. This action can not be undone.</string>-->
+    <string name="quiz_exit_confirmation_simple_text">You are about to exit the quiz. This action can not be undone and your result will be deleted.</string>
+
+
+</resources>

@@ -1,0 +1,30 @@
+{
+    "project_info": {
+    "project_number": "4407999411",
+    "firebase_url": "https://raf-rma-2024-default-rtdb.firebaseio.com",
+    "project_id": "com.example.projekat",
+    "storage_bucket": "raf-rma-2024.appspot.com"
+},
+    "client": [
+    {
+        "client_info": {
+        "mobilesdk_app_id": "1:4407999411:android:934c8a3f07616803d0e9c6",
+        "android_client_info": {
+        "package_name": "com.example.projekat"
+    }
+    },
+        "oauth_client": [],
+        "api_key": [
+        {
+            "current_key": "AIzaSyCjin7qNHsFddP6IAMOZodWI3NuVbx8JYg"
+        }
+        ],
+        "services": {
+        "appinvite_service": {
+        "other_platform_oauth_client": []
+    }
+    }
+    }
+    ],
+    "configuration_version": "1"
+}
